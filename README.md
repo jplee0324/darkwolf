@@ -1,6 +1,4 @@
-# Dark Wolf Solutions Coding Assignment
-
-My code implementation uses the following python libraries which will need to be installed before running the code:
+This code implementation uses the following python libraries which will need to be installed before running the code:
 
 <ol>
 <li> pandas (for data processing script)</li>
